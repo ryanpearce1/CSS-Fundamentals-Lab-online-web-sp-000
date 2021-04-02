@@ -33,3 +33,16 @@ figcapture {
   width: 800px;
 }
 
+details {
+  margin-top: 20px;
+}
+
+details div{
+  display: block;
+  float: left;
+  text-align: center;
+  background-color: blue
+  width: 25%;
+  
+  
+}
